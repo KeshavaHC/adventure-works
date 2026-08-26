@@ -1,2 +1,2 @@
 # adventure-works
-End-to-end Data Analyst portfolio project using Adventure Works, applying Excel, SQL, Tableau, and Power BI to clean, analyze, visualize, and derive actionable business insights from sales data
+End-to-end Data Analytics project using the Adventure Works dataset to perform data cleaning, exploratory analysis, KPI development, and interactive dashboard creation using Excel, SQL, Tableau, and Power BI. The project focuses on analyzing sales, customers, products, and business performance to generate actionable insights
